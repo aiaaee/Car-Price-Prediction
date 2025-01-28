@@ -24,15 +24,15 @@ Understand the engine specifications, shedding light on performance and efficien
 Determine the transmission type, whether automatic, manual, or another variant.
 
 7. #### Exterior & Interior Colors:
-Explore the aesthetic aspects of the vehicles, including exterior and interior color options.
+ Explore the aesthetic aspects of the vehicles, including exterior and interior color options.
 
-8.####Accident History:
+9. #### Accident History:
 Discover whether a vehicle has a prior history of accidents or damage, crucial for informed decision-making.
 
-9.####Clean Title:
+9. #### Clean Title:
 Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.
 
-10.####Price:
+10. #### Price:
 Access the listed prices for each vehicle, aiding in price comparison and budgeting.
 
 This dataset is a valuable resource for automotive enthusiasts, buyers, and researchers interested in analyzing trends, making informed purchasing decisions or conducting studies related to the automotive industry and consumer preferences. Whether you are a data analyst, car buyer, or researcher, this dataset offers a wealth of information to explore and analyze.
