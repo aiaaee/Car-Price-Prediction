@@ -32,4 +32,6 @@ This dataset is a valuable resource for automotive enthusiasts, buyers, and rese
 ## Explority Data Analysis 
 In this project, we utilized Matplotlib and Plotly Express (PyExpress) libraries to perform advanced data visualization and feature analysis. Visualizations play a critical role in understanding complex datasets, identifying patterns, and improving the performance of machine learning models.
 
+![ss](https://github.com/user-attachments/assets/6280b930-0a26-4e2b-9597-51b4357401d0)
+
 By integrating visualization into the data analysis pipeline, we gain a better understanding of how features interact and impact the outcome. This reduces the trial-and-error aspect of feature selection and supports data-driven decisions. Additionally, interactive visualizations make it easier to communicate findings to team members or stakeholders.By combining static and interactive visualizations, this project not only enhances the analysis process but also creates a foundation for future reproducible and scalable analytics workflows.
