@@ -16,3 +16,11 @@ Used Car Price Prediction Dataset is a comprehensive collection of automotive in
 9.Clean Title: Evaluate the availability of a clean title, which can impact the vehicle's resale value and legal status.
 10.Price: Access the listed prices for each vehicle, aiding in price comparison and budgeting.
 This dataset is a valuable resource for automotive enthusiasts, buyers, and researchers interested in analyzing trends, making informed purchasing decisions or conducting studies related to the automotive industry and consumer preferences. Whether you are a data analyst, car buyer, or researcher, this dataset offers a wealth of information to explore and analyze.
+
+
+## Explority Data Analysis 
+In this project, we utilized Matplotlib and Plotly Express (PyExpress) libraries to create a series of visualizations for analyzing our models. The main goal was to identify differences and commonalities between the available features and leverage this information to perform more accurate evaluations and calculations.
+
+1.Creating diverse visualizations: Designing and implementing various plots to examine data distributions, feature correlations, and model comparison results.
+2.Identifying correlations: Analyzing relationships between features to uncover hidden patterns and identify factors that could impact model performance.
+3.Model evaluation and optimization: Using insights from visual analyses to enhance the performance and accuracy of machine learning models.
