@@ -36,7 +36,8 @@ In this project, we utilized Matplotlib and Plotly Express (PyExpress) libraries
 
 By integrating visualization into the data analysis pipeline, we gain a better understanding of how features interact and impact the outcome. This reduces the trial-and-error aspect of feature selection and supports data-driven decisions. Additionally, interactive visualizations make it easier to communicate findings to team members or stakeholders.By combining static and interactive visualizations, this project not only enhances the analysis process but also creates a foundation for future reproducible and scalable analytics workflows.
 
-![newplot](https://github.com/user-attachments/assets/067a1562-9f17-420f-8591-082ce229a99a)
+
+![ee](https://github.com/user-attachments/assets/166351db-9cc2-4379-93a1-8e5e753c63e6)
 
 
 
