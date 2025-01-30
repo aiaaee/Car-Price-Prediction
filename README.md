@@ -1,7 +1,7 @@
 # Car Price Prediction
 
 ![160-car-price-prediction-header-sm](https://github.com/user-attachments/assets/7801638c-f3f9-44db-9f79-6394d747d9ff)
-
+ 
 ## About Dataset
 Used Car Price Prediction Dataset is a comprehensive collection of automotive information extracted from the popular automotive marketplace website, https://www.cars.com. This dataset comprises 4,009 data points, each representing a unique vehicle listing, and includes nine distinct features providing valuable insights into the world of automobiles.
 
